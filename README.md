@@ -22,4 +22,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - RECHART
 - USE DEBOUNCE
 
-FOLLOW ASHAB ABIDI [https://github.com/AshabWazowski]
+FOLLOW [ASHAB ABIDI](https://github.com/AshabWazowski)
